@@ -1,12 +1,12 @@
 # React topics checklist
 
-**A checklist for learning React - Fork it and start ticking off topics!**
+**A checklist for learning React **
 
 ## React fundamentals
 
 - [ ] use-cases of React
 - [ ] JavaScript basics for React
-  - [ ] immutability / data management without mutations
+  - [ ] immutability/data management without mutations
     - [ ] updating properties of objects
     - [ ] adding properties to objects
     - [ ] adding elements to arrays (create)
@@ -83,7 +83,7 @@
   - [ ] passing content to components
   - [ ] wrapping existing elements in components (e.g. `button` -> `StyledButton`)
 - [ ] hooks
-  - [ ] what are hooks?
+  - [ ] What are hooks?
   - [ ] rules of hooks
   - [ ] overview of built-in hooks and hooks from libraries
   - [ ] creating custom hooks
@@ -117,9 +117,9 @@
     - [ ] SCSS
   - [ ] CSS-in-JS
     - [ ] inline styles
-    - [ ] "styled components"
+    - [ ] "styled-components"
   - [ ] animations
-    - [ ] animating appearance / disapperance of elements
+    - [ ] animating appearance / disappearance of elements
 - [ ] forms
   - [ ] form validation strategies
   - [ ] libraries for forms: _react-hook-form_, _formik_
@@ -148,13 +148,13 @@
   - [ ] context with vanilla React
 - [ ] refs
   - [ ] refs for storing objects that don't influence the rendering
-  - [ ] using refs for avoiding outdated state
+  - [ ] using refs to avoid outdated state
   - [ ] the _ref_ property for accessing DOM elements
   - [ ] the _ref_ property in custom components
 
 ## Performance optimization
 
-- [ ] React devtools and performance
+- [ ] React dev tools and performance
 - [ ] memoization
 - [ ] memoization of expensive calculations
 - [ ] skipping unneeded rerenders
